@@ -32,3 +32,5 @@
 - 0692 Top K Frequent Words  
 - 0771 Jewels and Stones  
 - 1207 Unique Number of Occurrences  
+- 1346 Check If N and Its Double Exist  
+- 1512 Number of Good Pairs  
